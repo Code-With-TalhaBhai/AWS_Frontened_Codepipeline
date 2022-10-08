@@ -13,11 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js! is the best framework ever</a>
+          Welcome to <a href="https://nextjs.org">Next.js! is the best REACT framework ever</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by editing AND DEVELOPING tHE NeW yOu{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h2>Deploy &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly deploy your Next.js site to a public URL with Vercel and aWS.
             </p>
           </a>
         </div>
@@ -61,6 +61,7 @@ export default function Home() {
           Powered by{' '}
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/oops.png" alt="My Own Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
